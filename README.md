@@ -1,5 +1,5 @@
 # Functional Quality Software
-
+[![Build Status](https://github.com/wizofe/fqs.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/wizofe/fqs.jl/actions/workflows/CI.yml?query=branch%3Amain)
 ## Introduction
 
 Functional Quality Software (`fqs` pronounced "fuck's", as in the phrase "for fuck's sake, Julia!"). It's a double nameplay to Berkeley Quality Software (see The Hacker's Dictionary by Eric S Raymond) 
