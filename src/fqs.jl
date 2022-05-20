@@ -1,5 +1,6 @@
 module fqs
 
-# Write your package code here.
+export filter_bp_fmri
+include("filtering.jl")
 
 end
